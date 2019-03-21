@@ -1,0 +1,59 @@
+html,body{
+    min-height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#cabecalho{
+    width: 100%;
+    background-color: #6175f0;
+    margin: 0%;
+    padding-top: 20px;
+    padding-bottom: 13px;
+    padding-left: 34px;
+}
+
+#hoje{
+    float: right;
+    width: 405px;
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 30px;
+    background-color: palevioletred;
+
+}
+
+.title-home{
+    margin: 0%;
+    padding-top: 0%;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 34px; 
+    color: white;
+}
+
+h2.subtitle-home{
+    margin: 0%;
+    padding-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+}
+h2.subtitle-default{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: black;
+}
+
+h3.subtitle-default{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: black;
+}
+
+img.float-left{
+    width: 310px;
+    float: left;
+    padding-right: 12px;
+
+}
